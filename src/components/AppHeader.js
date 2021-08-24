@@ -3,7 +3,8 @@ import './style/AppHeader.css';
 function AppHeader() {
     return (
         <header className="app-header">
-            <img className="app-header-logo" src="/images/logo.png" />
+            <h2>CHETcica</h2>
+            
         </header>
     );
 }
